@@ -1,0 +1,2 @@
+# ilk repo
+süper repo
